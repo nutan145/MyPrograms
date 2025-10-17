@@ -17,6 +17,8 @@ public class ArrayListDemo1
 		listofCustomers.add(new Customer(444, "John", 123456D));
 	   
 		listofCustomers.forEach(System.out::println);
+		
+		System.out.println("added comments from Nutan");
 	   
 	}
 }
